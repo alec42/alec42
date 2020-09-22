@@ -36,6 +36,13 @@
 </br>
 <hr>
 
+<details close>
+  <summary><b>Trophies</b></summary>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=alec42&theme=flat"/>
+  </a>
+</details>
+
 <!--
 I love coding and doing neat computer stuff. For example, finding [this neat program](https://github.com/kittinan/spotify-github-profile) to show what I recently listened to on Spotify (hopefully it's not too embarassing) : 
 <p align="center">
