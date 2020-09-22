@@ -5,11 +5,14 @@
   <a href="https://www.linkedin.com/in/alec-james-van-rassel">
     <img src="https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue" />
   </a>
+  <a href="https://www.researchgate.net/profile/Alec_Van_Rassel">
+    <img src="https://img.shields.io/badge/Research-Gate-green?style=flat-square&logo=researchgate" />
+  </a>
   <a href="https://mailhide.io/e/brjzw">
     <img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="http://www.actuarial-lookup.com/results/xdvqfp">
-    <img src="https://img.shields.io/badge/actuarial-exams-important?style=flat-square&logo=sqlite&logoColor=white&color=blue" />
+    <img src="https://img.shields.io/badge/actuarial-exams-important?style=flat-square&logo=sqlite" />
   </a>
 </p>
   
