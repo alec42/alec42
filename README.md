@@ -1,10 +1,51 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Alec</h1>
+<h3 align="center">A computer enthusiast actuary from Canada</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alec-james-van-rassel">
+    <img src="https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue" />
+  </a>
+  <a href="https://mailhide.io/e/brjzw">
+    <img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+  
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=alec42&show_icons=true&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe"/>
+  </a>
+  </br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alec42&hide=HTML&langs_count=3" />
+  </a>
+</p>
+
+</br>
+
+<h3 align="center">Repositories not on my profile</h5>
+<p font-size="20px">I often ask myself why learn something if I'm not going to remember it? To ensure I do remember what I learn, I learned <a href="https://www.latex-project.org/">LaTeX</a> and use it make "cheatsheets" I share openly. You can see these at these 2 repositories : </p>
+
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/ressources-act/Guide_de_survie_en_actuariat" title="Survival Guide for Actuarial Science Students"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ressources-act&repo=Guide_de_survie_en_actuariat&theme=gotham"></a>
+  <a align="right" href="https://github.com/ressources-act/Ressources-examens" title="Actuarial Exam Ressources"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ressources-act&repo=Ressources-examens&theme=gotham"></a>
+</p>
+
+</br>
+<hr>
+
+<!--
+I love coding and doing neat computer stuff. For example, finding [this neat program](https://github.com/kittinan/spotify-github-profile) to show what I recently listened to on Spotify (hopefully it's not too embarassing) : 
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=alec042&cover_image=true" />
+  </a>
+</p>
+-->
+
 
 <!--
 **alec42/alec42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
