@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="http://www.actuarial-lookup.com/results/xdvqfp">
-    <img src="https://img.shields.io/badge/actuarial-exams-informational?style=flat-square&logo=sqlite&logoColor=white&color=blue" />
+    <img src="https://img.shields.io/badge/actuarial-exams-important?style=flat-square&logo=sqlite&logoColor=white&color=blue" />
   </a>
 </p>
   
