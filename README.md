@@ -22,7 +22,7 @@
   </a>
   </br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alec42&hide=HTML&langs_count=3" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alec42&hide=HTML&langs_count=4" />
   </a>
 </p>
 
