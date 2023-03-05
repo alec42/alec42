@@ -20,10 +20,9 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=alec42&show_icons=true&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe"/>
   </a>
-  </br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alec42&hide=HTML&langs_count=4" />
-  </a>
+  </br>  
+  <img src="https://raw.githubusercontent.com/alec42/github-stats-copy/master/generated/overview.svg#gh-dark-mode-only"/>
+  <img src="https://raw.githubusercontent.com/alec42/github-stats-copy/master/generated/languages.svg#gh-dark-mode-only"/>
 </p>
 
 </br>
