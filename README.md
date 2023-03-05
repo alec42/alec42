@@ -21,8 +21,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=alec42&show_icons=true&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe"/>
   </a>
   </br>  
-  <img src="https://raw.githubusercontent.com/alec42/github-stats-copy/master/generated/overview.svg#gh-dark-mode-only"/>
-  <img src="https://raw.githubusercontent.com/alec42/github-stats-copy/master/generated/languages.svg#gh-dark-mode-only"/>
+  <img src="https://raw.githubusercontent.com/alec42/github-stats-copy/master/generated/overview.svg#gh-light-mode-only"/>
+  <img src="https://raw.githubusercontent.com/alec42/github-stats-copy/master/generated/languages.svg#gh-light-mode-only"/>
 </p>
 
 </br>
