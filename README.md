@@ -27,6 +27,9 @@
 
 </br>
 
+<a href="https://quine.sh"><img src="https://stats.quine.sh/alec42/topics-over-time?theme=light" width="540px" style="margin:0 auto"></a>
+
+
 <h3 align="center">Repositories not on my profile</h5>
 <p font-size="20px">I often ask myself why learn something if I'm not going to remember it? To ensure I do remember what I learn, I learned <a href="https://www.latex-project.org/">LaTeX</a> and use it make "cheatsheets" I share openly. You can see these at these 2 repositories : </p>
 
