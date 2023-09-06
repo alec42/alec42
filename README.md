@@ -18,11 +18,12 @@
   
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=alec42&show_icons=true&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe"/>
+    <img src="https://github-readme-stats-omega-roan-93.vercel.app/api?username=alec42&include_all_commits=true&show_icons=true&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe"/>
   </a>
   </br>  
-  <img src="https://raw.githubusercontent.com/alec42/github-stats-copy/master/generated/overview.svg#gh-dark-mode-only"/>
-  <img src="https://raw.githubusercontent.com/alec42/github-stats-copy/master/generated/languages.svg#gh-dark-mode-only"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-omega-roan-93.vercel.app/api/top-langs/?username=alec42&size_weight=0.5&count_weight=0.5&hide=html,OpenSCAD,css&langs_count=7&layout=compact"/>
+  </a>
 </p>
 
 </br>
@@ -34,8 +35,8 @@
 <p font-size="20px">I often ask myself why learn something if I'm not going to remember it? To ensure I do remember what I learn, I learned <a href="https://www.latex-project.org/">LaTeX</a> and use it make "cheatsheets" I share openly. You can see these at these 2 repositories : </p>
 
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/ressources-act/Guide_de_survie_en_actuariat" title="Survival Guide for Actuarial Science Students"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ressources-act&repo=Guide_de_survie_en_actuariat&theme=gotham"></a>
-  <a align="right" href="https://github.com/ressources-act/Ressources-examens" title="Actuarial Exam Ressources"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ressources-act&repo=Ressources-examens&theme=gotham"></a>
+  <a align="left" href="https://github.com/ressources-act/Guide_de_survie_en_actuariat" title="Survival Guide for Actuarial Science Students"><img height="115" src="https://github-readme-stats-omega-roan-93.vercel.app/api/pin/?username=ressources-act&repo=Guide_de_survie_en_actuariat&theme=gotham"></a>
+  <a align="right" href="https://github.com/ressources-act/Ressources-examens" title="Actuarial Exam Ressources"><img height="115" src="https://github-readme-stats-omega-roan-93.vercel.app/api/pin/?username=ressources-act&repo=Ressources-examens&theme=gotham"></a>
 </p>
 
 </br>
