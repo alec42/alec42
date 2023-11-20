@@ -11,7 +11,7 @@
   <a href="https://mailhide.io/e/brjzw">
     <img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="http://www.actuarial-lookup.com/results/xdvqfp">
+  <a href="http://www.actuarial-lookup.com/results/bvkpjg">
     <img src="https://img.shields.io/badge/actuarial-exams-important?style=flat-square&logo=sqlite" />
   </a>
 </p>
