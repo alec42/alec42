@@ -14,6 +14,9 @@
   <a href="http://www.actuarial-lookup.com/results/bvkpjg">
     <img src="https://img.shields.io/badge/actuarial-exams-important?style=flat-square&logo=sqlite" />
   </a>
+  <a href="https://medium.com/@alec042">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 </p>
   
 <p align="center">
